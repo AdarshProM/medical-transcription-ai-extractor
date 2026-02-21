@@ -70,7 +70,7 @@ text
 
 ### Step 1: Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/medical-transcription-ai-extractor.git
+git clone https://github.com/AdarshProM/medical-transcription-ai-extractor.git
 cd medical-transcription-ai-extractor
 
 Step 2: Install Dependencies
