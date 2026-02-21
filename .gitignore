@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Data files (may contain patient info - keep private)
+data/
+output/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
